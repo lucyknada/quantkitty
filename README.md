@@ -15,3 +15,4 @@ supports:
 - awq
 - hqq
 - gptq
+- gguf
